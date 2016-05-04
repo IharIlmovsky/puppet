@@ -1,0 +1,26 @@
+
+/etc/puppetlabs/code/environments/production/modules
+├── cowsayings (???)
+└── dwerder-graphite (v5.16.1)
+/etc/puppetlabs/code/modules
+├── garethr-docker (v5.2.0)
+├── multi_node (???)
+├── puppetlabs-apt (v2.2.2)
+├── puppetlabs-stdlib (v4.11.0)
+└── stahnma-epel (v1.2.2)
+/opt/puppetlabs/puppet/modules
+├── puppetlabs-pe_accounts (v2.0.2-6-gd2f698c)
+├── puppetlabs-pe_concat (v1.1.2-7-g77ec55b)
+├── puppetlabs-pe_console_prune (v0.1.1-9-gfc256c0)
+├── puppetlabs-pe_hocon (v2015.3.0)
+├── puppetlabs-pe_inifile (v1.1.4-16-gcb39966)
+├── puppetlabs-pe_java_ks (v1.2.4-37-g2d86015)
+├── puppetlabs-pe_nginx (v2016.1.0)
+├── puppetlabs-pe_postgresql (v2015.3.0)
+├── puppetlabs-pe_puppet_authorization (v2016.1.0)
+├── puppetlabs-pe_r10k (v2015.2.2-2-g21c67b9)
+├── puppetlabs-pe_razor (v0.2.1-85-g6e105cf)
+├── puppetlabs-pe_repo (v2016.1.0)
+├── puppetlabs-pe_staging (v2015.3.0)
+└── puppetlabs-puppet_enterprise (v2016.1.1-2-gb24975d)
+
